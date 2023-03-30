@@ -8,4 +8,5 @@
  <li>Google Hacking https://www.exploit-db.com/google-hacking-database</li?</li>
  <li>Telegago https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1</li>
  <li>Telegram https://cse.google.com/cse?cx=004805129374225513871%3Ap8lhfo0g3hg</li>
+ <li>Telegram Commentgram https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0</li>
 </ul
