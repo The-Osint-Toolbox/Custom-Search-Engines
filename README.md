@@ -2,7 +2,8 @@
 <p>A selection of useful Custom Serch Engines.</p>
 <ul>
  <li><a href="https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0">Amazon Cloud CSE</a></li>
-   <li><a href="https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0">Facebook Image Search CSE</a></li>
+ <li><a href="https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0">Facebook Image Search CSE</a></li>
+ <li><a href="https://cse.google.com/cse?cx=016621447308871563343:vylfmzjmlti#gsc.tab=0">Facebook Results, Pages, Groups & Photos CSE</a></li>
  <li><a href="https://cse.google.com/cse?cx=005797772976587943970:ca2hiy6hmri#gsc.tab=0/">Google Cloud CSE</a><li>
  <li><a href="https://cse.google.com/cse?cx=005797772976587943970:ca2hiy6hmri#gsc.tab=0">Google Domain CSE</a></li>
  <li><a href="https://cse.google.com/cse?cx=015328649639895072395:sbv3zyxzmji#gsc.tab=0">Google Geoint </a></li>
