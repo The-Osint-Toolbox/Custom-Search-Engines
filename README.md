@@ -16,6 +16,7 @@
  <li><a href="https://cse.google.com/cse?cx=017261104271573007538:bbzhlah6n4o#gsc.tab=0">Reddit</a></li>
  <li><a href="https://cse.google.com/cse?cx=004805129374225513871%3Ap8lhfo0g3hg">Telegram</a></li>
  <li><a href="https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0">Telegram Commentgram </a></li>
+ <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0">TikTok CSE</a></li>
  </ul>
 <p>If you perfer you can also puruse CSE Utopia for lots more Custom Search Engines.</p>
 <ul>
