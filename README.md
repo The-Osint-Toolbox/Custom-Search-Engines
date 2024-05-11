@@ -28,7 +28,8 @@
  <li><a href="https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0">TikTok CSE</a></li>
  <li><a href="https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0">Webcam Search</a></li>
  </ul>
-<p>If you perfer you can also puruse CSE Utopia for lots more Custom Search Engines.</p>
+<p>If you perfer you can also puruse these links with lots more Custom Search Engine lista.</p>
 <ul>
+ <li><a href="https://gist.github.com/jerlendds/741d110f59a7d2ed2098325d30b00569">CSEs.json</a></li>
  <li><a href="https://start.me/p/EL84Km/cse-utopia">CSE Utopia</a></li>
 </ul>
