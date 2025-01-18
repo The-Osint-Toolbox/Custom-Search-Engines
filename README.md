@@ -4,6 +4,7 @@
  <li><a href="https://booleanstrings.com/all-the-40-forty-custom-search-engines/">Boolean Strings 40</a></li>
  <li><a href="https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0">Facebook Image Search</a></li>
  <li><a href="https://cse.google.com/cse?cx=016621447308871563343:vylfmzjmlti#gsc.tab=0">Facebook Results, Pages, Groups & Photos</a></li>
+ <li><a href="https://cse.google.com/cse?cx=f4810de23ed2b0a32">Fitness Apps</a></li>
  <li><a href="https://github.com/cipher387/pastebinsearchengines">Google CSE for Pastbin</a></li>
  <li><a href="https://cse.google.com/cse?cx=005797772976587943970:ca2hiy6hmri#gsc.tab=0/">Google Cloud </a></li>
  <li><a href="https://cse.google.com/cse?cx=005797772976587943970:ca2hiy6hmri#gsc.tab=0">Google Domain </a></li>
