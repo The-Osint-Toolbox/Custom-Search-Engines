@@ -21,6 +21,7 @@
  <li><a href="https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=">Name Search</a></li>
  <li><a href="https://www.osintcombine.com/alt-tech-social-search">OSINT Combine Alternative Social Search</a></li>
  <li><a href="https://cse.google.com/cse?cx=013991603413798772546:nxs552dhq8k">Pasted tekst</a></li>
+ <li><a href="https://github.com/paulpogoda/OSINT-CSE?tab=readme-ov-file">Paul Pogoda</a></li>
  <li><a href="https://cse.google.com/cse?cx=017261104271573007538:bbzhlah6n4o#gsc.tab=0">Reddit (1)</a></li>
  <li><a href="https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30">Reddit (2)</a></li>
  <li><a href="https://cse.google.com/cse?key=AIzaSyB21wQuNzUsRTH-49FA7od4dB_Xvu5DCvg&cx=001794496531944888666:iyxger-cwug&q=">Search Engine for Social Networks</a></li>
